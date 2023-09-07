@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 --
 - 🔭 I’m a Web and software developer
 - 🌱 I’m currently learning DevOps and Pen testing
+-->
 
 ### What I know
 
